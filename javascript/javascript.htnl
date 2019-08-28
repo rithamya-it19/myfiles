@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+<body>
+<h2>first javascript</h2>
+<script>
+document.write("hello javascript by javascript");
+</script>
+</body>
+</html>

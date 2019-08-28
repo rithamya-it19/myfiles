@@ -1,0 +1,9 @@
+<html>
+<head>
+<h1 style="text-align:center;color:brown;font-size: 40px;font-family:Serif;"> PROFILE PAGE</h1>
+<form align="center" action="welcome.php" method="post">
+<b>  Email:</b> <input type="text" name="userid"><br>
+<br/><b>Password:</b> <input type="password" name="Password"><br>
+<br/>
+</head>
+</html> 
